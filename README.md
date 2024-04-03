@@ -1,5 +1,5 @@
 # IntelligentEvaluatingSystem
-The Intelligent Evaluating System is a web-based application designed to assess students' abilities in mathematics, particularly in the field of mensuration. It presents students with multiple-choice questions and evaluates their problem-solving skills. Once a student successfully completes a level, they will no longer be presented with that particular level.
+MeasureUp an Intelligent Evaluating System is a web-based application designed to assess students' abilities in mathematics, particularly in the field of mensuration. It presents students with multiple-choice questions and evaluates their problem-solving skills. Once a student successfully completes a level, they will no longer be presented with that particular level.
 
 # Features
 Multiple-choice questions on mensuration
